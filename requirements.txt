@@ -1,0 +1,9 @@
+pandas
+numpy
+plotly
+missingno
+matplotlib
+scikit-learn
+ipython
+scipy
+jupyter
