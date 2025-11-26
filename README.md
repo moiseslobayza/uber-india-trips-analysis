@@ -76,6 +76,13 @@ All key plots are implemented with **Plotly** to enable interactive exploration.
   - Or “premium” areas with higher willingness to pay.
 - This behaviour is consistent with a **dynamic/surge pricing** mechanism based on supply and demand.
 
+---
+
+### Visualization – Median price per km by hour and pickup zone
+
+![Median price per km by hour and pickup zone](reports/figures/price_per_km_hour_zone.png)
+
+
 For **Avg CTAT**:
 
 - Mean trip time is around **30 minutes**, with most values between ~10 and 45 minutes.
